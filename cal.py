@@ -13,3 +13,7 @@ def divisao(numero1, numero2):
         return "Erro: divisão por zero!"
 
     return numero1 / numero2
+
+def subtracao(numero1, numero2):
+    """Realiza a subtração de dois números."""      
+    return numero1 - numero2
