@@ -8,3 +8,5 @@ if num2 != 0:
     print("Resultado:", resultado)
 else:
     print("Erro: não é possível dividir por zero!")
+
+jiijihi0ójn.hhij
